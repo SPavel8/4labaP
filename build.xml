@@ -15,7 +15,7 @@
         <mkdir dir="out/production/untitled2"/>
         <copy includeemptydirs="false" todir="out/production/untitled2">
             <fileset dir="src">
-                <exclude name="**/*.java"/>
+                <exclude name="Toster.java"/>
             </fileset>
         </copy>
     </target>
